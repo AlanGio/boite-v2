@@ -1,0 +1,16 @@
+{
+	"app": {
+		"basePath": "/",
+		"port": 3000
+	},
+	"api": {
+		"basePath": "/api"
+	},
+	"logger": {
+		"level": "info"
+	},
+	"device-detection": {
+		"get-model": false
+	},
+	"adaptive": true
+}
